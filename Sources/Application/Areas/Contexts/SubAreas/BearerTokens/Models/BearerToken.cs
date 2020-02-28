@@ -1,6 +1,7 @@
 ﻿using System;
 using Mmu.Mlh.LanguageExtensions.Areas.Invariance;
 
+// ReSharper disable UnusedAutoPropertyAccessor.Global
 namespace Mmu.Mlh.SharePointAccess.Areas.Contexts.SubAreas.BearerTokens.Models
 {
     internal class BearerToken

@@ -1,5 +1,6 @@
 ﻿using System;
 
+// ReSharper disable UnusedAutoPropertyAccessor.Global
 namespace Mmu.Mlh.SharePointAccess.Infrastructure.Settings.Dtos
 {
     public class SpSettingsDto
