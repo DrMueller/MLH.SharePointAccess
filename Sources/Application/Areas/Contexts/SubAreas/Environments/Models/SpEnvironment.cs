@@ -1,7 +1,7 @@
 ﻿using System;
 using Mmu.Mlh.LanguageExtensions.Areas.Invariance;
 
-namespace Mmu.Mlh.SharePointAccess.Areas.Environments.Models
+namespace Mmu.Mlh.SharePointAccess.Areas.Contexts.SubAreas.Environments.Models
 {
     internal class SpEnvironment
     {

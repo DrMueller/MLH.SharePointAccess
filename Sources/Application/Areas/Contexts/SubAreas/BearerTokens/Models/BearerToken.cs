@@ -1,7 +1,7 @@
 ﻿using System;
 using Mmu.Mlh.LanguageExtensions.Areas.Invariance;
 
-namespace Mmu.Mlh.SharePointAccess.Areas.BearerTokens.Models
+namespace Mmu.Mlh.SharePointAccess.Areas.Contexts.SubAreas.BearerTokens.Models
 {
     internal class BearerToken
     {

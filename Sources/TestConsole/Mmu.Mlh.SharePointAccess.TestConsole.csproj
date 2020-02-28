@@ -16,4 +16,10 @@
     <ProjectReference Include="..\Application\Mmu.Mlh.SharePointAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="SharePointPnP.Client">
+      <HintPath>..\..\Libraries\PnP-Sites-Core\SharePointPnP.Client.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

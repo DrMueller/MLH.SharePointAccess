@@ -1,7 +1,7 @@
-﻿using Mmu.Mlh.SharePointAccess.Areas.Environments.Models;
+﻿using Mmu.Mlh.SharePointAccess.Areas.Contexts.SubAreas.Environments.Models;
 using Mmu.Mlh.SharePointAccess.Infrastructure.Settings.Services;
 
-namespace Mmu.Mlh.SharePointAccess.Areas.Environments.Services.Implementation
+namespace Mmu.Mlh.SharePointAccess.Areas.Contexts.SubAreas.Environments.Services.Implementation
 {
     internal class SpEnvironmentFactory : ISpEnvironmentFactory
     {
